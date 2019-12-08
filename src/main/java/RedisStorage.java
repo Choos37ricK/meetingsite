@@ -40,7 +40,7 @@ public class RedisStorage {
         }
     }
 
-    public String getUser(Integer userIndex) {
+    public String getUser(int userIndex) {
         return usersList.get(userIndex);
     }
 
@@ -48,8 +48,8 @@ public class RedisStorage {
         usersList.add(user);
     }
 
-    public void deleteUser(Integer userIndex) {
-        usersList.remove(userIndex);
+    public void deleteUser(String user) {
+        usersList.remove(user);
     }
 
 }

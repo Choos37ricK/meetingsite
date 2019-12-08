@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="485405ac-0e86-4cd8-a59c-40be24f371b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/RedisStorage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RedisStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RedisStorage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,41 +81,59 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1575812096565">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1575819066508">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1575812096565" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1575812096565">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1575819066508" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1575819066507">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1575812096565" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1575812096565">
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1575819066507" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1575819066507">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1575812096565" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1575812096565">
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1575819066507" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1575819066507">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1575812096565" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1575811780172">
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1575819066507" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1575819069999">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1575811780172" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1575811780172">
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1575819069999" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1575819069998">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1575811780172" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1575811780172">
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1575819069998" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1575819069998">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1575811780172" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1575811780172">
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1575819069998" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1575819069998">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1575811780172" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1575819069998" />
     <state x="277" y="59" key="SettingsEditor" timestamp="1575806125197">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1575806125197" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1575817264480">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1575817264480" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MeetingSite$Main.ic" NAME="Main Coverage Results" MODIFIED="1575818925043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
